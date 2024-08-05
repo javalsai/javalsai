@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/AMD-8D1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 ## Hey there 👋
-I'm javalsai, I enjoy developing backend, terminal apps or network stuff. While I try to avoid web, mobile and game dev (I just don't like the complexityof building GUIs).
+I'm javalsai, I enjoy developing backend, terminal apps or network stuff. While I try to avoid web, mobile and game dev (I just don't like the complexity of building GUIs).
 
 I'm a huge Linux nerd and love messing around with the internals of my system, like filesystems, init systems, network settings...
 
