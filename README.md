@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Artix-10A0CC?style=for-the-badge&logo=artixlinux&logoColor=white)
 ![](https://img.shields.io/badge/Wayland-CA9C01?style=for-the-badge&logo=wayland&logoColor=white)
 ![](https://img.shields.io/badge/Hyprland-468fa0?style=for-the-badge&logo=hyprland&logoColor=white)
-![](https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![](https://img.shields.io/badge/AMD-8D1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 ## Hey there 👋
 I'm javalsai, I enjoy developing backend, terminal apps or network stuff. While I try to avoid web, mobile and game dev (I just don't like the complexityof building GUIs).
