@@ -13,8 +13,8 @@ I also love hosting my own stuff like gitea, email, file server or http/s server
 * **🔒 GPG/PGP:** `E8887EE656F96E6535AAA08047F1C0AA01A08F39`
 
 ## Cool Graphs 📈
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=javalsai&show_icons=true&title_color=d55&icon_color=d55&text_color=bbb&bg_color=222&border_radius=7&hide_border=false&border_color=d55" />
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javalsai&show_icons=true&title_color=d55&icon_color=d55&text_color=bbb&bg_color=222&border_radius=7&hide_border=false&border_color=d55&layout=compact&langs_count=8&card_width=400&card_height=150" />
+<span><img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=javalsai&show_icons=true&title_color=d55&icon_color=d55&text_color=bbb&bg_color=222&border_radius=7&hide_border=false&border_color=d55" /></span>
+<span><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javalsai&show_icons=true&title_color=d55&icon_color=d55&text_color=bbb&bg_color=222&border_radius=7&hide_border=false&border_color=d55&layout=compact&langs_count=8&card_width=400&card_height=150" /></span>
 
 Don't let these fool you, haskell and lua are just for my dotfiles, and I do a lot of TS and rust, it's simply private, contibutions or just local stuff.
 
