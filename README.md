@@ -29,9 +29,8 @@ Don't let these fool you, haskell and lua are just for my dotfiles, and I do a l
 * **[javalsai/micstream-android](https://github.com/javalsai/micstream-android):** Android app to stream microphone into a TCP stream (custom block size). \
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 * **[Pickzelle/MrKonqi](https://github.com/Pickzelle/MrKonqi):** MrKonqi is TuxCord's official Discord bot. \
+ ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+ ![](https://img.shields.io/badge/BunJS-000?style=for-the-badge&logo=bun&logoColor=white) 
 <!-- Cringe badges before merge -->
 <!--![](https://img.shields.io/badge/Javascript-CA9C01?style=for-the-badge&logo=javascript&logoColor=white)-->
 <!--![](https://img.shields.io/badge/NVM-000?style=for-the-badge&logo=nvm&logoColor=white)-->
-<!-- Cooler badges for when my PR gets merged -->
- ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
- ![](https://img.shields.io/badge/BunJS-000?style=for-the-badge&logo=bun&logoColor=white) 
