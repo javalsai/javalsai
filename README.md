@@ -22,6 +22,7 @@ I also love hosting my own stuff like gitea, email, file server or http/s server
 
 ## Decent Misc Projects 📝
 * **[javalsai/lidm](https://github.com/javalsai/lidm):** A ✨fully✨ colorful cutomizable TUI display manager made in C for simplicity. \
+[![](https://img.shields.io/github/stars/javalsai/lidm?style=for-the-badge&color=dd5555&labelColor=1a1c1d)](https://github.com/javalsai/lidm/stargazers)
 [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=graywhite)](https://github.com/search?q=repo%3Ajavalsai%2Flidm++language%3AC&type=code)
 [![](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=graywhite)](https://github.com/search?q=repo%3Ajavalsai%2Flidm++language%3Amake&type=code)
 * **[javalsai/lipl](https://github.com/javalsai/lipl):** Light rust IP logger (nix config for cross compile to armv7a-hf) \
@@ -31,6 +32,7 @@ I also love hosting my own stuff like gitea, email, file server or http/s server
 * **[javalsai/micstream-android](https://github.com/javalsai/micstream-android):** Android app to stream microphone into a TCP stream (custom block size). \
 [![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/search?q=repo%3Ajavalsai%2Fmicstream-android++language%3AKotlin&type=code)
 * **[Pickzelle/MrKonqi](https://github.com/Pickzelle/MrKonqi):** MrKonqi is TuxCord's official Discord bot. \
+[![](https://img.shields.io/github/stars/Pickzelle/MrKonqi?style=for-the-badge&color=dd5555&labelColor=1a1c1d)](https://github.com/Pickzelle/MrKonqi/stargazers)
 [![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/search?q=repo%3APickzelle%2FMrKonqi++language%3ATypeScript&type=code)
 [![](https://img.shields.io/badge/BunJS-000?style=for-the-badge&logo=bun&logoColor=white)](#)
 [![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)]()
