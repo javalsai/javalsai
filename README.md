@@ -10,13 +10,15 @@ I'm a huge Linux nerd and love messing around with the internals of my system, l
 
 I also love hosting my own stuff like gitea, email, file server or http/s servers.
 
+* **🌐 Website:** <https://javalsai.dynv6.net/> (DNS provider might be dead, again...)
 * **🔒 GPG/PGP:** `E8887EE656F96E6535AAA08047F1C0AA01A08F39`
+* **🪙 XMR:** ` 48gGNbMVP2BZErXXB49AjVJvQDGFbyUyZd7fEMQe1weuPsrydbcaPftBggJddQP81U2ShS5Gju28oFhBGuhXiuMR8rsGZ4R`
 
 ## Cool Graphs 📈
 <a href="#"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=javalsai&show_icons=true&title_color=d55&icon_color=d55&text_color=bbb&bg_color=222&border_radius=7&hide_border=false&border_color=d55" /></a>
 <a href="#"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javalsai&show_icons=true&title_color=d55&icon_color=d55&text_color=bbb&bg_color=222&border_radius=7&hide_border=false&border_color=d55&layout=compact&langs_count=8&card_width=400&card_height=150" /></a>
 
-Don't let these fool you, haskell and lua are just for my dotfiles, and I do a lot of TS and rust, it's simply private, contibutions or just local stuff.
+~~Don't let these fool you, haskell and lua are just for my dotfiles, and I do a lot of TS and rust, it's simply private, contibutions or just local stuff.~~  I'm fairly happy with them now :)
 
 ## Decent Misc Projects 📝
 * **[javalsai/lidm](https://github.com/javalsai/lidm):** A ✨fully✨ colorful cutomizable TUI display manager made in C for simplicity. \
@@ -35,3 +37,5 @@ Don't let these fool you, haskell and lua are just for my dotfiles, and I do a l
 * **[javalsai/ronki](https://github.com/javalsai/ronki):** Just as pickzelle's MrKonqi, but made in rust and with cooler features. \
 [![](https://img.shields.io/badge/Rust-f70?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/search?q=repo%3Ajavalsai%2Fronki++language%3Arust&type=code)
 [![](https://img.shields.io/badge/SurrealDB-BB0080?style=for-the-badge&logo=surrealdb&logoColor=white)](#)
+* **[javalsai/rs-ezcache](https://github.com/javalsai/rs-ezcache):** 🦀 Rust library to make caching easy. \
+[![](https://img.shields.io/badge/Rust-f70?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/search?q=repo%3Ajavalsai%2Fronki++language%3Arust&type=code)
