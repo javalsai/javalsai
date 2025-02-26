@@ -11,7 +11,7 @@ I'm a huge Linux nerd and love messing around with the internals of my system, l
 
 I also love hosting my own stuff like gitea, email, file server or http/s servers.
 
-* **🌐 Website:** <https://javalsai.dynv6.net/> (DNS provider might be dead, again...)
+* **🌐 Website:** <https://javalsai.tuxcord.net/>
 * **🔒 GPG/PGP:** `E8887EE656F96E6535AAA08047F1C0AA01A08F39`
 * **🪙 XMR:** `48gGNbMVP2BZErXXB49AjVJvQDGFbyUyZd7fEMQe1weuPsrydbcaPftBggJddQP81U2ShS5Gju28oFhBGuhXiuMR8rsGZ4R`
 * **🗣️ Mastodon:** [@javalsai@mastodon.social](https://mastodon.social/@javalsai) and [@javalsai@mastodon.tuxcord.net](https://mastodon.tuxcord.net/@javalsai)</a>
